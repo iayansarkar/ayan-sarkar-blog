@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Ayan Sarkar
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Computer Science Student
+company: Techno India University
+email: contact@ayansarkar.dev
+twitter: https://twitter.com/iayansarkar
+linkedin: https://www.linkedin.com/in/iayansarkar
+github: https://github.com/iayansarkar
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
