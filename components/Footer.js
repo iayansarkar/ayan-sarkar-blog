@@ -23,7 +23,7 @@ export default function Footer() {
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://blog.ayansarkar.dev/">
-            Ayan Sarka
+            Ayan Sarkar
           </Link>
         </div>
       </div>
