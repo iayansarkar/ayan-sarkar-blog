@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Ayan Sarkar Blog',
   author: 'Tails Azimuth',
-  headerTitle: 'Ayan Sarkar Blog',
+  headerTitle: 'AyanSarkarBlog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
