@@ -1,16 +1,21 @@
 ---
 name: Ayan Sarkar
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+avatar: /static/images/avatar.jpg
+occupation: Computer Science Student
+company: Techno India University
+email: contact.ayansarkar@gmail.com
+twitter: https://twitter.com/iayansarkar
+linkedin: https://www.linkedin.com/in/iayansarkar
+github: https://github.comiayansarkar
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Ayan Sarkar is a recent graduate of Techno India University in West Bengal, India, with a degree in Computer Science and Engineering. He is passionate about technology and has a strong interest in artificial intelligence. He is also a skilled writer and communicator. In his blog, Ayan will share his thoughts and experiences on a variety of topics related to technology, artificial intelligence, and writing. He hopes to provide his readers with insights and inspiration, and to help them learn more about these fascinating subjects.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Here are some specific topics that Ayan plans to cover in his blog:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- The latest trends in Data Analytics
+- The future of work in the age of Data Analyst or Software Engineering
+- How to write effectively about technology
+- How to communicate effectively with others
+
+Ayan is excited to share his knowledge and passion with his readers. He hopes that his blog will be a valuable resource for anyone who is interested in technology, artificial intelligence, or writing.
